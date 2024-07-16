@@ -5,6 +5,8 @@
 #include <iostream>
 #include "FLinked.h"
 
+using namespace std;
+
 int main() {
 
     FLinked<int> list;
