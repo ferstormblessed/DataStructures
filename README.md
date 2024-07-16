@@ -1,4 +1,4 @@
 # Data structures and algorithms
 
-# Description
+## Description
 Basic data structures and algorithms with c++
